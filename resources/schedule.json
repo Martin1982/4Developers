@@ -1,0 +1,59 @@
+{
+    "schedule": [
+    {
+        "id": 1,
+        "title": 'Creating mobile Javascript Apps with Sencha Touch 2',
+        "speaker": 'Martin de Keijzer'
+    },
+    {
+        "id": 2,
+        "title": 'A practical guided tour of the Symfony2 framework',
+        "speaker": 'Hugo Hamon'
+    },
+    {
+        "id": 3,
+        "title": 'Coffee break',
+        "speaker": 'Awesome people!'
+    },
+    {
+        "id": 4,
+        "title": 'Develop & Deploy Using Hybrid Cloud Strategies',
+        "speaker": 'Thijs Feryn'
+    },
+    {
+        "id": 5,
+        "title": 'BDD in Behat – Straight to the Goal',
+        "speaker": 'Artur Wielogórski'
+    },
+    {
+        "id": 6,
+        "title": 'Lunch',
+        "speaker": 'Hungry people'
+    },
+    {
+        "id": 7,
+        "title": 'Don\'t Fall Behind: How to Learn Now What Is Needed Tomorrow?',
+        "speaker": 'Stefan Koopmanschap and Joshua Thijssen'
+    },
+    {
+        "id": 8,
+        "title": 'Coffee break',
+        "speaker": 'Thirsty people'
+    },
+    {
+        "id": 9,
+        "title": 'Processing Distributed Tasks',
+        "speaker": 'Mariusz Gil'
+    },
+    {
+        "id": 10,
+        "title": 'Geolocation and Maps with PHP and MongoDB',
+        "speaker": 'Derick Rethans'
+    },
+    {
+        "id": 11,
+        "title": 'Conference Summary - Prize Drawing',
+        "speaker": '4Developers'
+    }
+
+]}
